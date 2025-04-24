@@ -11,9 +11,7 @@ export const products = [
     price: 15999,
     image: "/magicstudio-art.jpg",
     images: [
-      "/magicstudio-art.jpg",
-      "/magicstudio-art-1.jpg",
-      "/magicstudio-art-2.jpg"
+      "/magicstudio-art.jpg"
     ],
     rating: 4.8,
     popularity: "9.7",
