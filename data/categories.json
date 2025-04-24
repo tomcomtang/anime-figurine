@@ -1,0 +1,22 @@
+[
+  {
+    "id": "figures",
+    "name": "手办模型"
+  },
+  {
+    "id": "clothing",
+    "name": "服饰周边"
+  },
+  {
+    "id": "accessories",
+    "name": "配饰饰品"
+  },
+  {
+    "id": "stationery",
+    "name": "文具用品"
+  },
+  {
+    "id": "homeware",
+    "name": "家居用品"
+  }
+]
